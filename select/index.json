@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "♡Emotion",
+  "base_artist": "NiziU",
+  "createdAt": "2025-12-26T07:14:24.419139Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "One Emotion",
+      "artist": "Clint Black",
+      "has_synced": false,
+      "path": "select/01_One_Emotion_Clint_Black.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Powered By Emotion",
+      "artist": "Deichkind",
+      "has_synced": true,
+      "path": "select/02_Powered_By_Emotion_Deichkind.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Guilt Is A Useless Emotion",
+      "artist": "New Order",
+      "has_synced": true,
+      "path": "select/03_Guilt_Is_A_Useless_Emotion_New_Order.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sweet Emotion",
+      "artist": "Aerosmith",
+      "has_synced": true,
+      "path": "select/04_Sweet_Emotion_Aerosmith.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Heartbeat (That's Emotion)",
+      "artist": "Sandra",
+      "has_synced": true,
+      "path": "select/05_Heartbeat_(That's_Emotion)_Sandra.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Love & Emotion",
+      "artist": "Gino Vannelli",
+      "has_synced": true,
+      "path": "select/06_Love_&_Emotion_Gino_Vannelli.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Emotion",
+      "artist": "Astrid S",
+      "has_synced": true,
+      "path": "select/07_Emotion_Astrid_S.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Emotion",
+      "artist": "Daft Punk",
+      "has_synced": true,
+      "path": "select/08_Emotion_Daft_Punk.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Impossible Emotion",
+      "artist": "Kyla La Grange",
+      "has_synced": true,
+      "path": "select/09_Impossible_Emotion_Kyla_La_Grange.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Emotion",
+      "artist": "Carly Rae Jepsen",
+      "has_synced": true,
+      "path": "select/10_Emotion_Carly_Rae_Jepsen.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Logic vs. Emotion",
+      "artist": "The Divine Comedy",
+      "has_synced": false,
+      "path": "select/11_Logic_vs._Emotion_The_Divine_Comedy.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Emotion Mama",
+      "artist": "Phenomena",
+      "has_synced": false,
+      "path": "select/12_Emotion_Mama_Phenomena.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sweet Emotion",
+      "artist": "Faith No More",
+      "has_synced": false,
+      "path": "select/13_Sweet_Emotion_Faith_No_More.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "♡Emotion",
+      "artist": "NiziU",
+      "has_synced": false,
+      "path": "select/pl_01_♡Emotion_NiziU.txt"
+    }
+  ]
+}
